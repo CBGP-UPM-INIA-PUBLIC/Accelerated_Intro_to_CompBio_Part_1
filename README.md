@@ -31,7 +31,7 @@ Once the virtual machine starts, your default password is 'osboxes.org'
 ## 3 ways to run this course:
 
 **CURRENTLY DISABLED ** 1)  Binder is a way to interact with the Jupyter notebooks inside of this repository - try it!  
-[![Binder](http: //mybinder.org/badge.svg)](https: //mybinder.org/v2/gh/CBGP-UPM-INIA-PUBLIC/Bioinfo_ProgrammingChallenges/master)
+[![Binder] <p style="visibility: hidden;">(http: //mybinder.org/badge.svg)](https: //mybinder.org/v2/gh/CBGP-UPM-INIA-PUBLIC/Bioinfo_ProgrammingChallenges/master)</p>
 
 2)  If you use Docker, you can <code>docker pull</code>, and then <code>docker run</code> this course as a Docker image as follows:
 
