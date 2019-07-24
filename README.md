@@ -4,10 +4,6 @@ Part 1 of the "Accelerated intro to Computational Biology for Biologists" course
 
 This is the basics of the basics, just to get you started!
 
-In this course we cover:
-   * Setting-up your Virtual Machine
-   * The Linux Operating System - basic basics
-   * GitHub - getting this course!
 
 # WHAT YOU NEED TO DO BEFORE THE FIRST DAY
 
