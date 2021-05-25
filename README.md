@@ -7,10 +7,10 @@ This is the basics of the basics, just to get you started!
 
 # WHAT YOU NEED TO DO BEFORE THE FIRST DAY
 
-Windows VMWare Player:  https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0 
+Windows VMWare Player:  https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0 
 Mac VirtualBox: https://www.virtualbox.org/  
 
-You should download and unzip the Virtual Machine we have created for this course:  https://doi.org/10.5281/zenodo.1147435
+You should download and unzip the Virtual Machine we have created for this course:  https://drive.google.com/drive/folders/1La8Tr3OjuusEJZU270O3rWTJPjUW_iH7
 
 **WINDOWS**:  Start VMWare, and select "open virtual machine".  Browse to the folder that you just unzipped.  Double-click.
 
@@ -26,8 +26,8 @@ Dear Students,
 You will take this course using a VMWare Virtual Machine.  You should do the following:
 
 0. CREATE AN ACCOUNT ON GitHub (this website) if you haven't already got one...
-1. Download VMWare Player (if you haven't already got it): https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0
-2. You should download the VMWare Virtual Machine that I have created for this course, which is in this Zenodo deposit:  https://doi.org/10.5281/zenodo.1147435
+1. Download VMWare Player (if you haven't already got it): https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0
+2. You should download the VMWare Virtual Machine that I have created for this course, which is in this Zenodo deposit:  https://drive.google.com/drive/folders/1La8Tr3OjuusEJZU270O3rWTJPjUW_iH7
 3. Unzip the virtual machine
 4. Start VMWare Player and select the virtual machine - start it (PASSWORD IS osboxes.org)
 5. In the top-right corner of the VM Desktop, you can select either US-style or Spanish-style keyboard
